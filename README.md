@@ -1,4 +1,4 @@
 # demo-repo
 for a trial 
 
-Hello Some people.
+Hello Some people!
